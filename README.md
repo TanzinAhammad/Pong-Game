@@ -1,2 +1,1 @@
-# Pong-Game
-In this project we made a game called “ping-pong” that has two modes, playing with machines and  humans. We made this project using “turtle” which is pre-built in library of python. It is used for  creating 2D objects. In machine mode, the right bat automatically changes according to ball  position, only the player needs to change his bat using the keyboard. Basic physics principles were  used here to create AI mode. AI agents know where the ball comes from by doing some basic  mathematics and physics. By doing this project we learned how to use “turtle” and how to  implement physics in a game.
+
